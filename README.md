@@ -4,7 +4,7 @@
 
 ### 🔭工作经历
 
-1.百度用户增长：百度果园、百度春节等运营类型活动的开发、内部工具库、基础建设的参与
+1.百度用户增长：百度果园、百度春节等运营类型活动的开发与重构、内部工具库、基础建设的开发与优化
 
 2.立新出行：车企服务售后业务相关的需求迭代，小程序模块重构、PC端管理系统的技术与构建打包工具相关的升级与优化
 
@@ -13,31 +13,3 @@
 JS每日一题
 
 面试题学习系列：https://vue3js.cn/interview/
-
-
-<!-- ### 👯爱好
-
-篮球、羽毛球 -->
-
-
-
-
-
-
-
-
-
-<!--
-**huihuiha/huihuiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
