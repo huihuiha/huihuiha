@@ -19,7 +19,7 @@
 3.cvte
 - 远程互动课程桌面端、APP端
 - 多端协同：KDM工具库
-- 聊天室组件库：@cvte/discussion
+- 聊天室工具库：@cvte/discussion
 - 虚拟人生成平台(从0 -> 1搭建)
 - 数字人直播管理项目web端、桌面端开发
 
